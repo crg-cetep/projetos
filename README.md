@@ -1,2 +1,2 @@
-# Rex
-Alimentador automático para cães
+# Projetos
+Codigos e descricoes dos projetos do clube de robotica
