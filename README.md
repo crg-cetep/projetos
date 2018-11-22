@@ -1,2 +1,2 @@
-# Projetos
-projetos de robótica(descrição, códigos etc)
+# Rex
+Alimentador automático para cães
